@@ -89,3 +89,11 @@ tidy.shのテストコード。
 ---- Check TestData ----
 		 Success!
 ```
+
+#### notify.sh
+
+```
+$ ./notify.sh sl 
+```
+
+第2引数のコマンド終了後、音声で終了を教えてくれるコマンド
